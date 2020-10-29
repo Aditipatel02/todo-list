@@ -1,8 +1,9 @@
 body{
   background-color:#1a1c20;
+  text-align: center;
 }
 .App{
-  background-color: #ffd5cd;
+  background-color: wheat;
   min-height:500px;
   width: 400px;
   margin: 40px auto;
@@ -30,9 +31,15 @@ body{
   width: 80px;
   border-radius: 5px;
   border: 0;
-  background-color:#fcf876; 
+  background-color:#ffaf04; 
   cursor: pointer;
 }
 #to-do-form button:focus{
   outline: none;
 }
+
+/* #to-do-form{
+  background-color:palegoldenrod;
+  margin: 100px 100px;
+  height: 500px;
+} */
